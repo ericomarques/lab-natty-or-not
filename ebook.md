@@ -1,4 +1,25 @@
 # Harmonia e Negócios: Descubra o Poder da Música Clássica de Mudar Ambientes e Eventos Corporativos!
+
+## 📒 Descrição
+Ebook sobre o uso de música clássica no ambiente corporativo
+
+## 🤖 Tecnologias Utilizadas
+LLM - ChatGPT
+
+## 🧐 Processo de Criação
+- Engenharia de Prompt e treinamento do assistente para criação de um ebook mais personalizado
+
+## 🚀 Resultados
+Resultado será o ebook abaixo
+
+## 💭 Reflexão (Opcional)
+Principalmente na criação de ebooks utilizando o ChatGPT tende a criar uma linguagem bem genérica, treinar para que o assunto tenha mais profundidade e também para que "soe" natural ainda exige muito esforço
+
+
+
+
+
+# Harmonia e Negócios: Descubra o Poder da Música Clássica de Mudar Ambientes e Eventos Corporativos!
 <p>O mundo dos negócios é frequentemente percebido como um ambiente estritamente pragmático e até mesmo árido, onde decisões rápidas e resultados tangíveis predominam. No entanto, em "Harmonia e Negócios", exploramos um aspecto frequentemente negligenciado que pode revolucionar a forma como empresas operam e prosperam: a música clássica.
 
 A música possui uma capacidade única de influenciar nossos sentimentos, comportamentos e até a eficiência no local de trabalho. Este livro detalha como as sutis, porém poderosas, forças da música clássica podem ser integradas aos ambientes corporativos para fomentar um clima de trabalho mais harmonioso e produtivo. Através de estudos de caso, pesquisas científicas e relatos de experiências reais, demonstraremos como a música clássica não é apenas um pano de fundo estético, mas uma ferramenta estratégica para enriquecer a cultura corporativa e melhorar a satisfação no trabalho.
